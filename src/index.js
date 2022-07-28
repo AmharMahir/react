@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>
-    <h1>Assalamu Alikkum</h1>
+    <h1>Assalamu Alikkum1</h1>
     <ul>
       <li>teaching</li>
       <li>coding</li>
